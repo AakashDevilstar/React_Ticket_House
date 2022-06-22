@@ -1,0 +1,57 @@
+.main{
+    border: 1px solid black;
+    width: 20%;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    background-color: aqua;
+}
+
+.main img{
+    background: fixed;
+    width: 8rem;
+    margin-left: 5rem;
+    /* height: 8rem; */
+}
+
+.main h1{
+    text-align: center;
+    color: rgb(215, 225, 233);
+}
+
+.main h3{
+    margin-left: 3rem;
+    color: rgb(215, 225, 233);
+}
+
+.det{
+    font-size: 1.5rem;
+}
+
+.main p{
+    margin-left: 4rem;
+    font-size: 1rem;
+}
+
+.main input{
+    outline: none;
+    text-align: center;
+    margin-left: 3rem;
+}
+
+.main button{
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+    outline: none;
+    background-color: rgb(72, 72, 179);
+    padding: 0.3rem;
+    border-radius: 5px;
+    width: 50%;
+}
+
+.main p{
+    color: aliceblue;
+}
+
+.all{
+    display: flex;
+}

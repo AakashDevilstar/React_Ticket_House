@@ -1,0 +1,59 @@
+.main{
+    border: 1px solid black;
+    border-radius: 1.2rem;
+    width: 70%;
+}
+
+.upper{
+    padding: 50px;
+    margin-left: 22rem;   
+}
+
+.main p{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.main h4{
+    margin-left: 26px;
+}
+
+.butt{
+    margin: 2px;
+    margin: 1rem;
+}
+
+.two{
+    display: flex;
+}
+
+button{
+    outline: none;
+    height: 2rem;
+    width: 2rem;
+}
+
+.amount{
+    font-size: 2rem;
+}
+
+.main h5{
+    text-align: end;
+    margin-right: 5rem;
+    margin-top: -1.5rem;
+}
+
+.foot{
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+
+.foot button{
+    width: 10%;
+    border-radius: 10px;
+}
+
+.upper {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,14 @@
+.cart {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.Modal_two__Ec0hz {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.cart hr{
+    width: 46.5rem;
+}
